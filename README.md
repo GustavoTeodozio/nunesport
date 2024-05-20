@@ -12,6 +12,4 @@
 
 ![Captura de tela 2024-05-20 184110](https://github.com/GustavoTeodozio/nunesport/assets/108893339/3e9b0807-99cd-41fc-bd47-9579055774b5)
 
-![Captura de tela 2024-05-20 184110](https://github.com/GustavoTeodozio/nunesport/assets/108893339/00f0d80c-4b97-4dbb-a4fa-c21aab7a1434)
-
 ![Captura de tela 2024-05-20 184209](https://github.com/GustavoTeodozio/nunesport/assets/108893339/9bb84f94-9800-46a9-ab00-5391fee863af)
