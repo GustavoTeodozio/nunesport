@@ -21,8 +21,6 @@ public class Produto {
         this.preco = dados.preco();
     }
 
-    public  Produto(){}
-
     @Override
     public String toString() {
         return "Produto{" +
